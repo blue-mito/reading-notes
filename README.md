@@ -23,6 +23,6 @@
 - [ ] Task Item Fourteen.
 - [ ] Task Item Fifteen.
 ### =======================
-[^1]: Captain JAmes T. Kirk [^2].
+[^1]: Captain James T. Kirk
 [^2]: Or those brave enough to try.[^3]
 [^3]: You, dare-devil.
