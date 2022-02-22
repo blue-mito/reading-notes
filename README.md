@@ -9,7 +9,7 @@
 ### =======================
 - [ ] Task Item One.
 - [ ] Task Item Two.
-- [ ] Task Item Three.
+- [X] [Reading Assignment Three.](Reading-03.md)
 - [ ] Task Item Four.
 - [ ] Task Item Five.
 - [ ] Task Item Six.
