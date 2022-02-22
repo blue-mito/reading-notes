@@ -4,7 +4,11 @@
 
 ### So, here's what we covered in the fourth reading assignment':'
 
-6-reasons-for-pair-programming/)**
+- **HTML  4: Links**
+- **HTML 15: Layout**
+
+- **  JS  3: Functions, Methods, and Objects**
+- **Article: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)**
 
 #### The HTML code was particularly interesting as I am learning more about how elements in a webpage, that I would take for granted, operates. My favorite part of the LIST chapter was the use of id tags to move to a particular section of a webpage! Being used to long lists of content and being able to jump to that particular article, it made a lot more sense as to how it worked'!'
 
