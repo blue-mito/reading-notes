@@ -10,7 +10,7 @@
 - [ ] Task Item One.
 - [ ] Task Item Two.
 - [ ] Task Item Three.
-- [ ] Task Item Four.
+- [X] [Reading Assignment Four:](Reading-04.md)
 - [ ] Task Item Five.
 - [ ] Task Item Six.
 - [ ] Task Item Seven.
