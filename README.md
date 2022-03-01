@@ -7,12 +7,12 @@
 ###### Or rather who can read the tiny print that says so? [^2].
 ## *TABLE OF CONTENTS*
 ### =======================
-- [ ] Task Item One.
-- [ ] Task Item Two.
+- [X] [Reading Assignment Five.](class-01.md)
+- [X] [Reading Assignment Five.](class-02.md)
 - [X] [Reading Assignment Three.](Reading-03.md)
 - [X] [Reading Assignment Four.](Reading-04.md)
-- [ ] Task Item Five.
-- [ ] Task Item Six.
+- [X] [Reading Assignment Five.](class-05.md)
+- [X] [Reading Assignment Six.](class-06.md)
 - [ ] Task Item Seven.
 - [ ] Task Item Eight.
 - [ ] Task Item Nine.
